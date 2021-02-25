@@ -10,19 +10,6 @@ Installing process:
 3. Click Install button
 3. Click google don't send button for re checking google playright  (Specially for server.apk)
 
- 
-	******** Team Member Work ********
-
-Members:
-	Md. Shahriar Parvez (reg no: 2016331086)
-	S.M. Mahamudul Hasan (reg no: 2016331032)
-
-Members Work:
-	1.Server + UI--> Shahriar Parvez
-	2.Client + UI--> Mahamudul Hasan
-
-
-	********** Features ************
 
 Base features:
 1.Multiple client can join in the network
