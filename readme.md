@@ -9,7 +9,7 @@ A simple android Server-Client chat system where multiple clients can chat with 
 * **A spinner to see the connected clients list.**
 * **A button (Save All Chat/ Save chatlog) to store the conversation into a .txt file in the external storage.**
 
-# Extra features
+# Extra Features
 * **An interactive GUI  using gradient & splash screen.**
 * **A button (Sent message to individual) on the server-side to send a message to a specific active client.**
 * **A disconnect button to disconnect, and also notify the disconnection to all active clients.**
